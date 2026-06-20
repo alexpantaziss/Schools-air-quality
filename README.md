@@ -5,7 +5,7 @@ A custom **ArcGIS Experience Builder** widget that shows **real‑time air quali
 > **🔗 Live app:** **https://schools-air-quality.netlify.app/**
 >
 
-Built by **Alexandros Pantazis** as part of the **ADONIS TICKET** competition, organized in memory of the founder of **Marathon Data Systems**, Adonis Kontos — https://marathondata.gr/
+Built by **Alexandros Pantazis** as part of the **ADONIS TICKET** competition, organized in memory of the founder of **Marathon Data Systems**, Adonis Kontos - https://marathondata.gr/
 
 ---
 
@@ -30,7 +30,7 @@ The app is a side‑panel widget bound to a Map widget. Schools are displayed as
 
 ## Data sources
 
-- **Air quality:** [Open‑Meteo Air Quality API](https://open-meteo.com/) — hourly EAQI, PM2.5, PM10, NO₂, O₃.
+- **Air quality:** [Open‑Meteo Air Quality API](https://open-meteo.com/) - hourly EAQI, PM2.5, PM10, NO₂, O₃.
 - **Underlying model:** the European [Copernicus Atmosphere Monitoring Service (CAMS)](https://atmosphere.copernicus.eu/air-quality).
 
 > The **European Air Quality Index (EAQI)** gives a quick assessment of the air we breathe. It is computed hourly from a combination of measurements and forecast data from Copernicus (CAMS).
@@ -70,7 +70,7 @@ schools-aqi/
 
 ## Ελληνικά 🇬🇷
 
-**Παρατηρητήριο Ποιότητας Αέρα Σχολείων** — ένα custom widget για το **ArcGIS Experience Builder** που δείχνει την **ποιότητα του αέρα σε πραγματικό χρόνο** για σχολεία στην **Ελλάδα** και την **Κύπρο**, με βάση τον Ευρωπαϊκό Δείκτη Ποιότητας Αέρα (EAQI).
+**Παρατηρητήριο Ποιότητας Αέρα Σχολείων** - ένα custom widget για το **ArcGIS Experience Builder** που δείχνει την **ποιότητα του αέρα σε πραγματικό χρόνο** για σχολεία στην **Ελλάδα** και την **Κύπρο**, με βάση τον Ευρωπαϊκό Δείκτη Ποιότητας Αέρα (EAQI).
 
 **🔗 Εφαρμογή σε λειτουργία:** **https://schools-air-quality.netlify.app/**
 
