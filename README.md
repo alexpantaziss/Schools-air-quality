@@ -4,7 +4,6 @@ A custom **ArcGIS Experience Builder** widget that shows **real‑time air quali
 
 > **🔗 Live app:** **https://schools-air-quality.netlify.app/**
 >
-> **🔗 ArcGIS Experience:** https://experience.arcgis.com/experience/dd77a1cc983b413188bb81022aa504ea
 
 Built by **Alexandros Pantazis** as part of the **ADONIS TICKET** competition, organized in memory of the founder of **Marathon Data Systems**, Adonis Kontos — https://marathondata.gr/
 
