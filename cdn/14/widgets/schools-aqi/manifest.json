@@ -1,0 +1,23 @@
+{
+  "name": "schools-aqi",
+  "type": "widget",
+  "version": "1.0.0",
+  "exbVersion": "1.19.0",
+  "author": "Alexandros Pantazis",
+  "description": "Air Quality Widget for Schools",
+  "copyright": "",
+  "license": "",
+  "dependency": [
+    "jimu-arcgis"
+  ],
+  "properties": {
+    "hasConfig": true,
+    "hasSettingPage": true,
+    "useMapWidgets": true,
+    "useDataSources": false
+  },
+  "defaultSize": {
+    "width": 350,
+    "height": 500
+  }
+}
